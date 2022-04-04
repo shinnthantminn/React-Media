@@ -14,8 +14,8 @@ function Nav() {
   };
 
   return (
-    <div className="bg-red-600  py-2">
-      <div className="flex flex-wrap 2xl:container mx-auto justify-between text-white pr-5 2xl:pr-0">
+    <div className="bg-red-600 py-2">
+      <div className="flex flex-wrap container mx-auto justify-between text-white pr-5 2xl:pr-0">
         <div className="flex text-2xl font-bold items-center">
           <img src={logo} alt="Logo" className=" w-14" />
           <p className="word">SR Media</p>
